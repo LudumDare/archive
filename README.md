@@ -1,7 +1,7 @@
 # The Ludum Dare Archival Project
 A place to collect and share things from the early days of Ludum Dare.
 
-* Forum
+* [Discussion Forum](https://github.com/LudumDare/archive/discussions)
 
 ## Known online sources
 * The ["Who hosted Ludum Dare?" page](https://ludumdare.com/resources/questions/who-hosted-ludum-dare/) on ludumdare.com ([github repo](https://github.com/LudumDare/ludumdare.com))
